@@ -1,1 +1,2 @@
-#include <stlib.io>
+#include <stdlib.h>
+#include <stdio.h>
